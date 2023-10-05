@@ -1,7 +1,7 @@
 /* $Id$ */
 #include <rtems.h>
 #include <libcpu/pte121.h>
-#include <libcpu/page.h>
+#include <linux/page.h>
 #include <libcpu/cpuIdent.h>
 #include <string.h>
 #include <ctype.h>
